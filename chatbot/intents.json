@@ -1,8 +1,0 @@
-{"intents": [
-        {"tag": "greeting",
-         "patterns": ["Hi"],
-         "responses": ["Hello!"],
-         "contest_set: ": "" 
-        }
-    ]
-}
